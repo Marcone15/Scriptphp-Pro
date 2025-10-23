@@ -1,0 +1,67 @@
+.bigger-smaller{
+    width: 100%;
+    margin-top: 8px;
+}
+
+.bigger-smaller .bigger-smaller-title{
+    display: flex;
+    align-items: center;
+}
+
+.bigger-smaller .bigger-smaller-title h4{
+    color: #000;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.bigger-smaller .bigger-smaller-title h4 span{
+    font-size: .7em;
+    font-weight: 400;
+    background-color: #FF9100;
+    color: #fff;
+    border-radius: 30px;
+    padding: 3px 10px;
+}
+
+.bigger-smaller .bigger-smaller-container{
+    margin-top: 7px;
+    display: flex;
+    width: 100%;
+    justify-content: start;
+    text-align: center;
+    gap: 7px;
+}
+
+.bigger-smaller .bigger-smaller-container div{
+    width: 50%;
+    border-radius: 5px;
+    padding: 10px 0;
+    color: #fff;
+}
+
+.bigger-smaller .bigger-smaller-container div p:first-child{
+    font-size: .85em;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.bigger-smaller .bigger-smaller-container div p:last-child{
+    font-size: .8em;
+    font-weight: 300;
+    color: #ffffff6e;
+}
+
+.bigger-smaller .bigger-smaller-container div span{
+    font-size: .9em;
+    font-weight: 400;
+    background-color: #198754;
+    border-radius: 3px;
+    padding: 3px 15px;
+}
+
+.bigger-smaller .bigger-smaller-container div h3{
+    font-size: .8em;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 7px;
+}
