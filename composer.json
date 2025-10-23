@@ -1,0 +1,16 @@
+{
+    "name": "draccu/draccurifas",
+    "description": "Sistema de sorteios online.",
+    "authors": [
+        {
+            "name": "Draccu"
+        }
+    ],
+    "require": {
+        "gerencianet/gerencianet-sdk-php": "^5.0",
+        "mercadopago/dx-php": "^3.7"
+    },
+    "config": {
+        "cafile": "C:\\xampp\\php\\extras\\ssl\\cacert.pem"
+    }
+}
