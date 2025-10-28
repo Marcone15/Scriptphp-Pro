@@ -1,0 +1,84 @@
+.container-sidebar{
+    background-color: #fff;
+    height: 100vh;
+    width: max-content;
+    padding: 50px 20px 20px 20px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+
+.container-sidebar .content-sidebar {
+    text-align: center;
+
+}
+
+.container-sidebar .content-sidebar p {
+    display: none;
+}
+
+.container-sidebar .content-sidebar .toggle-menu-sidebar{
+    color: #161616;
+    font-size: 1.5em;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px #2e2e2e3b;
+    cursor: pointer;
+}
+
+.container-sidebar .content-sidebar .nav-sidebar ul a li{
+    display: flex;
+    align-items: center;
+    color: #161616;
+    padding-bottom: 10px;
+}
+
+.container-sidebar .content-sidebar .nav-sidebar ul a li i{
+    font-size: 1.5em;
+}
+
+.container-sidebar .content-sidebar .nav-sidebar ul a li p{
+    font-size: .9em;
+    padding-left: 20px;
+}
+
+.container-sidebar .content-sidebar .logout-sidebar{
+    border-top: solid 1px #2e2e2e3b;
+    color: #fff;
+    margin-top: 20px;
+    display: block;
+}
+
+.container-sidebar .content-sidebar .logout-sidebar ul a li{
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+    cursor: pointer;
+    color: #161616;
+}
+
+.container-sidebar .content-sidebar .logout-sidebar ul a li:first-child{
+    margin-top: 20px;
+}
+
+.container-sidebar .content-sidebar .logout-sidebar ul a li i{
+    font-size: 1.5em;
+}
+
+.container-sidebar .content-sidebar .logout-sidebar ul a li p{
+    padding-left: 10px;
+    font-size: .9em;
+}
+
+@media only screen and (max-width: 600px) {
+    .container-sidebar{
+        height: max-content;
+        padding: 20px 20px 20px 20px;
+
+    }
+}
+
+
+
+
+
