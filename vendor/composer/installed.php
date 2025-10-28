@@ -55,15 +55,6 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'mercadopago/dx-php' => array(
-            'pretty_version' => '3.7.0',
-            'version' => '3.7.0.0',
-            'reference' => '1805d569d427c6f96baf71a18144193a64872904',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../mercadopago/dx-php',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'psr/http-client' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',

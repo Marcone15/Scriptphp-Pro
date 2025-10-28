@@ -16,14 +16,13 @@ nav .container-nav .header-nav{
 
 nav .container-nav .header-nav i{
     color: #fff;
-    font-size: 30px;
+    font-size: 34px;
     cursor: pointer;
 }
 
 nav .container-nav .header-nav img{
     max-width: 185px;
-    max-height: 40px;
-    margin-left: auto;  
+    max-height: 50px;  
     cursor: pointer;
 }
 

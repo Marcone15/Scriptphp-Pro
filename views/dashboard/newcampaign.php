@@ -68,44 +68,12 @@
 
                             <div class="image-raffle-galery" >
                                 <label>Galeria de imagens<span>(Tamanho rec. 720x600px)</span></label>
-                                <div class="galery-inputs">
-                                    <div class="galery-item">
-                                        <label for="image_raffle_galery_1" class="label-image-raffle-galery"><i class="bi bi-upload"></i> Escolher arquivo 1</label>
-                                        <div class="file-name-galery-1" style="font-size: .8em; font-weight: 300;"></div>
-                                        <input type="file" accept="image/*" name="image_raffle_galery[]" id="image_raffle_galery_1" style="display: none;">
-                                        <div class="file-image-galery-1"></div>
-                                    </div>
-                                    <div class="galery-item">
-                                        <label for="image_raffle_galery_2" class="label-image-raffle-galery"><i class="bi bi-upload"></i> Escolher arquivo 2</label>
-                                        <div class="file-name-galery-2" style="font-size: .8em; font-weight: 300;"></div>
-                                        <input type="file" accept="image/*" name="image_raffle_galery[]" id="image_raffle_galery_2" style="display: none;">
-                                        <div class="file-image-galery-2"></div>
-                                    </div>
-                                    <div class="galery-item">
-                                        <label for="image_raffle_galery_3" class="label-image-raffle-galery"><i class="bi bi-upload"></i> Escolher arquivo 3</label>
-                                        <div class="file-name-galery-3" style="font-size: .8em; font-weight: 300;"></div>
-                                        <input type="file" accept="image/*" name="image_raffle_galery[]" id="image_raffle_galery_3" style="display: none;">
-                                        <div class="file-image-galery-3"></div>
-                                    </div>
-                                    <div class="galery-item">
-                                        <label for="image_raffle_galery_4" class="label-image-raffle-galery"><i class="bi bi-upload"></i> Escolher arquivo 4</label>
-                                        <div class="file-name-galery-4" style="font-size: .8em; font-weight: 300;"></div>
-                                        <input type="file" accept="image/*" name="image_raffle_galery[]" id="image_raffle_galery_4" style="display: none;">
-                                        <div class="file-image-galery-4"></div>
-                                    </div>
-                                    <div class="galery-item">
-                                        <label for="image_raffle_galery_5" class="label-image-raffle-galery"><i class="bi bi-upload"></i> Escolher arquivo 5</label>
-                                        <div class="file-name-galery-5" style="font-size: .8em; font-weight: 300;"></div>
-                                        <input type="file" accept="image/*" name="image_raffle_galery[]" id="image_raffle_galery_5" style="display: none;">
-                                        <div class="file-image-galery-5"></div>
-                                    </div>
-                                    <div class="galery-item">
-                                        <label for="image_raffle_galery_6" class="label-image-raffle-galery"><i class="bi bi-upload"></i> Escolher arquivo 6</label>
-                                        <div class="file-name-galery-6" style="font-size: .8em; font-weight: 300;"></div>
-                                        <input type="file" accept="image/*" name="image_raffle_galery[]" id="image_raffle_galery_6" style="display: none;">
-                                        <div class="file-image-galery-6"></div>
-                                    </div>
-                                </div>
+                                <label for="image_raffle_galery" class="label-image-raffle-galery"><i class="bi bi-upload"></i> Escolher arquivos</label>
+                                <div class="file-name-galery" style="font-size: .8em; font-weight: 300;"></div>
+
+                                <input type="file" accept="image/*" name="image_raffle_galery[]" id="image_raffle_galery" style="display: none;" multiple>
+                                
+                                <div class="file-image-galery"></div>
                             </div>
                         </div>
 

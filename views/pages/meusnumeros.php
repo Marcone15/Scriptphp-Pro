@@ -9,6 +9,14 @@
             <span class="title">
                 <h1>🛒 Meus títulos</h1>
             </span>
+            <form method="get" action="/meus-numeros" class="form-search-orders">
+                <h1>Buscar compras</h1>
+                <label for="phone">Informe seu telefone</label>
+                <span>
+                    <input type="text" id="phone" name="phone" value="<?php echo htmlspecialchars($phone ?? ''); ?>" required>
+                    <button type="submit"><i class="bi bi-check-circle"></i></button>
+                </span>
+            </form>  
             <?php if (isset($searchPerformed) && $searchPerformed): ?>
                 <?php if (!empty($orders)): ?>
                     <?php foreach ($orders as $order): ?>

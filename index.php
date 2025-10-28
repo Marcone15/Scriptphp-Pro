@@ -1,5 +1,4 @@
 <?php
-error_reporting(E_ALL & ~E_DEPRECATED & ~E_NOTICE);
 
 require __DIR__ . '/config/config.php';
 require __DIR__ . '/models/Settings.php';

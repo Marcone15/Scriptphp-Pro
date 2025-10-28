@@ -1,52 +1,43 @@
 body section .back-range{
     width: 100%;
-    height: 12px;
+    height: 20px;
     margin-bottom: -20px;
 }
 
 body section .container{
-    width: 100%;
-    margin: -18px auto 35px;
-    box-sizing: border-box;
-    display: block;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    background-color: rgb(223, 227, 232);
-    padding: 10px !important;
-    max-width: 700px !important;
+    max-width: 600px;
+    background-color: #E4E4E4;
+    border-radius: 20px 20px 0 0;
+    padding: 15px 12px 20px 12px;
 }
 
 body section .container .title{
     display: flex;
-    flex-direction: row;
-    margin-top: 8px;
-    margin-bottom: 8px;
-    align-items: baseline;
+    align-items: center;
 }
 
 body section .container .title h1{
     color: #000;
-    font-size: 1.125em;
+    font-size: 1.3em;
     font-weight: 500;
 }
 
 body section .container .title p{
-    margin: 0px 0px 0px 8px;
-    line-height: 1.5;
-    font-family: Montserrat, "Public Sans", sans-serif;
-    font-weight: 400;
-    color: rgb(88, 96, 105);
-    font-size: 13px;
+    font-size: .9em;
+    padding-top: 4px;
+    color: #646464bd;
+    padding-left: 5px;
+    font-weight: 300;
 }
 
 body section .container .favorite-campaign .img-campaign{
     width: 100%;
-    height: 393px;
+    height: 290px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    border-radius: 15px 15px 0 0;
-    margin-top: 15px;
+    border-radius: 10px 10px 0 0;
+    margin-top: 10px;
     margin-bottom: -34px;
 }
 
