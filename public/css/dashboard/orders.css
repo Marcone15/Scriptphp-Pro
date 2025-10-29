@@ -1,0 +1,298 @@
+.dashboard-order{
+    padding: 50px;
+    background-color: #f5f5f5;
+    
+}
+
+.dashboard-order h1{
+    color: #161616;
+    font-size: 1.6em;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.dashboard-order .orders-container .filter-orders form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.dashboard-order .orders-container .filter-orders form select, input{
+    width: 26%;
+    border: solid 1px #0000003b;
+    border-radius: 5px;
+    font-size: .9em;
+    font-weight: 400;
+    color: #0000009c;
+    padding: 9px;
+    outline: none;
+}
+
+.dashboard-order .orders-container .filter-orders form button{
+    width: 10%;
+    border: none;
+    border-radius: 7px;
+    background-color: #0d6efd;
+    color: #fff;
+    font-size: .9em;
+    font-weight: 500;
+    padding: 10px 0;
+    cursor: pointer;
+    outline: none;
+    margin-left: 10px;
+}
+
+.dashboard-order .orders-container .table-names-orders{
+    background-color: #fff;
+    border-radius: 5px 5px 0 0;
+    padding: 15px;
+    color: #000000bb;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-size: .75em;
+    font-weight: 400;
+}
+
+
+.dashboard-order .orders-container .orders-list .order-grid{
+    background-color: #fff;
+    border-radius: 0 0 5px 5px;
+    padding: 15px;
+    color: #000000bb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: solid 1px #00000017;
+    margin-top: -3px;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .id, .campaign, .user, .qtd-order, .total-order,
+.date-order {
+    color: #000000bb;
+    font-size: .83em;
+    font-weight: 400;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .id{
+    width: 5%;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .campaign{
+    width: 15%;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .user{
+    width: 15%;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .qtd-order{
+    width: 10%;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .total-order{
+    width: 5%;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .date-order{
+    width: 11%;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .status-order {
+    width: 3%;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .status-order{
+    border-radius: 30px;
+    font-size: .73em;
+    font-weight: 500;
+    padding: 2px 10px;
+    width: 7.1%;
+    text-align: center;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order{
+    display: flex;
+    align-items: center;
+    width: 6.5%;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order i{
+    color: #1f1f1f;
+    font-size: 1.2em;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order button{
+    background: transparent;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order .form-delete-order button{
+    padding: 0;
+    border: none;
+    background: transparent;
+    outline: none;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order .modal-delete-order{    
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #00000071;
+    backdrop-filter: blur(7px);
+    z-index: 1000;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order .modal-delete-order .container-modal-delete-order{
+    width: 320px;
+    height: max-content;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: -1px 10px 17px -11px rgba(0, 0, 0, 0.212);
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order .modal-delete-order .container-modal-delete-order h4{
+    font-size: 1.2em;
+    font-weight: 500;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.123);
+    padding: 15px;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order .modal-delete-order .container-modal-delete-order p{
+    font-size: .9em;
+    font-weight: 300;
+    padding: 10px 15px;
+    color: #000000b0;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order .modal-delete-order .container-modal-delete-order span{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 10px 15px 15px 0;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order .modal-delete-order .container-modal-delete-order .delete-order-no{
+    border: solid 2px #00000049;
+    border-radius: 5px;
+    color: #000000ab;
+    font-size: .95em;
+    font-weight: 300;
+    padding: 3px 12px;
+    cursor: pointer;
+}
+
+.dashboard-order .orders-container .orders-list .order-grid .actions-order .modal-delete-order .container-modal-delete-order .delete-order-yes{
+    border: solid 2px #0d6efd;
+    border-radius: 5px;
+    color: #fff;
+    font-size: .95em;
+    font-weight: 300;
+    background-color: #0d6efd;
+    margin-left: 10px;
+    padding: 3px 12px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    .dashboard-order{
+        padding: 20px 10px;
+        
+    }
+
+    .dashboard-order h1{
+        font-size: 1.3em;
+    }  
+
+    .dashboard-order .orders-container .filter-orders form{
+        display: block;
+    }
+    
+    .dashboard-order .orders-container .filter-orders form select, input{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .dashboard-order .orders-container .filter-orders form button{
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .dashboard-order .orders-container .table-names-orders{
+        display: none;
+    }
+    
+    
+    .dashboard-order .orders-container .orders-list .order-grid{
+        background-color: #fff;
+        border-radius: 5px;
+        padding: 15px;
+        display: block;
+        border-top: none;
+        margin-top: 10px;
+    }
+
+    .dashboard-order .orders-container .orders-list .order-grid .id{
+        width: 100%;
+        font-weight: 500;
+        margin-bottom: 7px;
+    }
+    
+    .dashboard-order .orders-container .orders-list .order-grid .campaign{
+        width: 100%;
+        margin-bottom: 7px;
+    }
+    
+    .dashboard-order .orders-container .orders-list .order-grid .user{
+        width: 100%;
+        margin-bottom: 7px;
+    }
+    
+    .dashboard-order .orders-container .orders-list .order-grid .qtd-order{
+        width: 100%;
+        margin-bottom: 7px;
+    }
+    
+    .dashboard-order .orders-container .orders-list .order-grid .total-order{
+        width: 100%;
+        margin-bottom: 7px;
+    }
+    
+    .dashboard-order .orders-container .orders-list .order-grid .date-order{
+        width: 100%;
+        margin-bottom: 7px;
+    }
+    
+    .dashboard-order .orders-container .orders-list .order-grid .status-order {
+        width: 33%;
+        margin-bottom: 7px;
+    }
+
+    .dashboard-order .orders-container .orders-list .order-grid .actions-order{
+        width: 100%;
+        gap: 15px;
+    }
+
+    .dashboard-order .orders-container .orders-list .order-grid .actions-order i{
+        margin-left: 0;
+    }
+
+    .dashboard-order .orders-container .orders-list .order-grid .actions-order .modal-delete-order .container-modal-delete-order{
+        width: 95vw;
+    }
+    
+    
+}
+
+

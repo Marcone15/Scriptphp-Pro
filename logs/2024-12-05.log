@@ -1,0 +1,267 @@
+
+2024-12-05 14:05:03 - API Response: {"calendario":{"criacao":"2024-12-05T13:04:03.000Z","expiracao":3600},"txid":"0538ce8b772144e28625c84e916c5816","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":720,"location":"qrcodespix.sejaefi.com.br\/v2\/fa3ff0865dfc413ca07c79f9cd1d81f7","tipoCob":"cob","criacao":"2024-12-05T13:04:03.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fa3ff0865dfc413ca07c79f9cd1d81f7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fa3ff0865dfc413ca07c79f9cd1d81f75204000053039865802BR5905EFISA6008SAOPAULO62070503***63048372"}
+
+2024-12-05 14:05:03 - Payment pending for TXID: 0538ce8b772144e28625c84e916c5816
+
+2024-12-05 14:05:07 - check_payment_status.php called
+
+2024-12-05 14:05:07 - TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:09 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:00.000Z","expiracao":3600},"txid":"0aa45fae2ed744a792f167debdf8267f","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":721,"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","tipoCob":"cob","criacao":"2024-12-05T13:05:00.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de5204000053039865802BR5905EFISA6008SAOPAULO62070503***6304AE01"}
+
+2024-12-05 14:05:09 - Payment pending for TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:12 - check_payment_status.php called
+
+2024-12-05 14:05:12 - TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:14 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:00.000Z","expiracao":3600},"txid":"0aa45fae2ed744a792f167debdf8267f","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":721,"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","tipoCob":"cob","criacao":"2024-12-05T13:05:00.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de5204000053039865802BR5905EFISA6008SAOPAULO62070503***6304AE01"}
+
+2024-12-05 14:05:14 - Payment pending for TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:17 - check_payment_status.php called
+
+2024-12-05 14:05:17 - TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:19 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:00.000Z","expiracao":3600},"txid":"0aa45fae2ed744a792f167debdf8267f","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":721,"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","tipoCob":"cob","criacao":"2024-12-05T13:05:00.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de5204000053039865802BR5905EFISA6008SAOPAULO62070503***6304AE01"}
+
+2024-12-05 14:05:19 - Payment pending for TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:22 - check_payment_status.php called
+
+2024-12-05 14:05:22 - TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:24 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:00.000Z","expiracao":3600},"txid":"0aa45fae2ed744a792f167debdf8267f","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":721,"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","tipoCob":"cob","criacao":"2024-12-05T13:05:00.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de5204000053039865802BR5905EFISA6008SAOPAULO62070503***6304AE01"}
+
+2024-12-05 14:05:24 - Payment pending for TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:27 - check_payment_status.php called
+
+2024-12-05 14:05:27 - TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:29 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:00.000Z","expiracao":3600},"txid":"0aa45fae2ed744a792f167debdf8267f","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":721,"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","tipoCob":"cob","criacao":"2024-12-05T13:05:00.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de5204000053039865802BR5905EFISA6008SAOPAULO62070503***6304AE01"}
+
+2024-12-05 14:05:29 - Payment pending for TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:32 - check_payment_status.php called
+
+2024-12-05 14:05:32 - TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:34 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:00.000Z","expiracao":3600},"txid":"0aa45fae2ed744a792f167debdf8267f","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":721,"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","tipoCob":"cob","criacao":"2024-12-05T13:05:00.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de5204000053039865802BR5905EFISA6008SAOPAULO62070503***6304AE01"}
+
+2024-12-05 14:05:34 - Payment pending for TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:37 - check_payment_status.php called
+
+2024-12-05 14:05:39 - PIX payment created successfully. TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:05:39 - TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:42 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:00.000Z","expiracao":3600},"txid":"0aa45fae2ed744a792f167debdf8267f","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":721,"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","tipoCob":"cob","criacao":"2024-12-05T13:05:00.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fd69ecb4ffc0413f836f668f1bbe12de5204000053039865802BR5905EFISA6008SAOPAULO62070503***6304AE01"}
+
+2024-12-05 14:05:42 - Payment pending for TXID: 0aa45fae2ed744a792f167debdf8267f
+
+2024-12-05 14:05:45 - check_payment_status.php called
+
+2024-12-05 14:05:45 - TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:05:47 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:39.000Z","expiracao":3600},"txid":"52a538934bc4410993439b68c44e72d3","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":722,"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","tipoCob":"cob","criacao":"2024-12-05T13:05:39.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c5204000053039865802BR5905EFISA6008SAOPAULO62070503***630431D4"}
+
+2024-12-05 14:05:47 - Payment pending for TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:05:50 - check_payment_status.php called
+
+2024-12-05 14:05:50 - TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:05:52 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:39.000Z","expiracao":3600},"txid":"52a538934bc4410993439b68c44e72d3","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":722,"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","tipoCob":"cob","criacao":"2024-12-05T13:05:39.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c5204000053039865802BR5905EFISA6008SAOPAULO62070503***630431D4"}
+
+2024-12-05 14:05:52 - Payment pending for TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:05:55 - check_payment_status.php called
+
+2024-12-05 14:05:55 - TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:05:57 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:39.000Z","expiracao":3600},"txid":"52a538934bc4410993439b68c44e72d3","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":722,"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","tipoCob":"cob","criacao":"2024-12-05T13:05:39.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c5204000053039865802BR5905EFISA6008SAOPAULO62070503***630431D4"}
+
+2024-12-05 14:05:57 - Payment pending for TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:06:00 - check_payment_status.php called
+
+2024-12-05 14:06:00 - TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:06:02 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:39.000Z","expiracao":3600},"txid":"52a538934bc4410993439b68c44e72d3","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":722,"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","tipoCob":"cob","criacao":"2024-12-05T13:05:39.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c5204000053039865802BR5905EFISA6008SAOPAULO62070503***630431D4"}
+
+2024-12-05 14:06:02 - Payment pending for TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:06:05 - check_payment_status.php called
+
+2024-12-05 14:06:05 - TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:06:07 - API Response: {"calendario":{"criacao":"2024-12-05T13:05:39.000Z","expiracao":3600},"txid":"52a538934bc4410993439b68c44e72d3","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":722,"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","tipoCob":"cob","criacao":"2024-12-05T13:05:39.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/5e463a7fcaaf4bbfb08beb3b0a21e93c5204000053039865802BR5905EFISA6008SAOPAULO62070503***630431D4"}
+
+2024-12-05 14:06:07 - Payment pending for TXID: 52a538934bc4410993439b68c44e72d3
+
+2024-12-05 14:06:10 - PIX payment created successfully. TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:15 - check_payment_status.php called
+
+2024-12-05 14:06:15 - TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:18 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:09.000Z","expiracao":3600},"txid":"6b77e4e59fe44199a60eb25bda32aeb1","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":723,"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","tipoCob":"cob","criacao":"2024-12-05T13:06:09.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc75204000053039865802BR5905EFISA6008SAOPAULO62070503***6304B4DF"}
+
+2024-12-05 14:06:18 - Payment pending for TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:20 - check_payment_status.php called
+
+2024-12-05 14:06:20 - TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:23 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:09.000Z","expiracao":3600},"txid":"6b77e4e59fe44199a60eb25bda32aeb1","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":723,"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","tipoCob":"cob","criacao":"2024-12-05T13:06:09.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc75204000053039865802BR5905EFISA6008SAOPAULO62070503***6304B4DF"}
+
+2024-12-05 14:06:23 - Payment pending for TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:25 - check_payment_status.php called
+
+2024-12-05 14:06:25 - TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:28 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:09.000Z","expiracao":3600},"txid":"6b77e4e59fe44199a60eb25bda32aeb1","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":723,"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","tipoCob":"cob","criacao":"2024-12-05T13:06:09.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc75204000053039865802BR5905EFISA6008SAOPAULO62070503***6304B4DF"}
+
+2024-12-05 14:06:28 - Payment pending for TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:30 - check_payment_status.php called
+
+2024-12-05 14:06:30 - TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:33 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:09.000Z","expiracao":3600},"txid":"6b77e4e59fe44199a60eb25bda32aeb1","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":723,"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","tipoCob":"cob","criacao":"2024-12-05T13:06:09.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc75204000053039865802BR5905EFISA6008SAOPAULO62070503***6304B4DF"}
+
+2024-12-05 14:06:33 - Payment pending for TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:35 - check_payment_status.php called
+
+2024-12-05 14:06:35 - TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:38 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:09.000Z","expiracao":3600},"txid":"6b77e4e59fe44199a60eb25bda32aeb1","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":723,"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","tipoCob":"cob","criacao":"2024-12-05T13:06:09.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc75204000053039865802BR5905EFISA6008SAOPAULO62070503***6304B4DF"}
+
+2024-12-05 14:06:38 - Payment pending for TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:40 - check_payment_status.php called
+
+2024-12-05 14:06:40 - TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:43 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:09.000Z","expiracao":3600},"txid":"6b77e4e59fe44199a60eb25bda32aeb1","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":723,"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","tipoCob":"cob","criacao":"2024-12-05T13:06:09.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc75204000053039865802BR5905EFISA6008SAOPAULO62070503***6304B4DF"}
+
+2024-12-05 14:06:43 - Payment pending for TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:45 - check_payment_status.php called
+
+2024-12-05 14:06:45 - TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:48 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:09.000Z","expiracao":3600},"txid":"6b77e4e59fe44199a60eb25bda32aeb1","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":723,"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","tipoCob":"cob","criacao":"2024-12-05T13:06:09.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc75204000053039865802BR5905EFISA6008SAOPAULO62070503***6304B4DF"}
+
+2024-12-05 14:06:48 - Payment pending for TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:50 - check_payment_status.php called
+
+2024-12-05 14:06:52 - PIX payment created successfully. TXID: bb7460a34f094886afeb800860309da3
+
+2024-12-05 14:06:52 - TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:55 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:09.000Z","expiracao":3600},"txid":"6b77e4e59fe44199a60eb25bda32aeb1","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":723,"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","tipoCob":"cob","criacao":"2024-12-05T13:06:09.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/022cdde9e1ce4fa3ba6f8ffa9d84afc75204000053039865802BR5905EFISA6008SAOPAULO62070503***6304B4DF"}
+
+2024-12-05 14:06:55 - Payment pending for TXID: 6b77e4e59fe44199a60eb25bda32aeb1
+
+2024-12-05 14:06:58 - check_payment_status.php called
+
+2024-12-05 14:06:58 - TXID: bb7460a34f094886afeb800860309da3
+
+2024-12-05 14:07:00 - API Response: {"calendario":{"criacao":"2024-12-05T13:06:52.000Z","expiracao":3600},"txid":"bb7460a34f094886afeb800860309da3","revisao":0,"status":"ATIVA","valor":{"original":"1.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":724,"location":"qrcodespix.sejaefi.com.br\/v2\/f1ee23fb00614bfe87f987d655016149","tipoCob":"cob","criacao":"2024-12-05T13:06:52.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/f1ee23fb00614bfe87f987d655016149","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/f1ee23fb00614bfe87f987d6550161495204000053039865802BR5905EFISA6008SAOPAULO62070503***630443AA"}
+
+2024-12-05 14:07:00 - Payment pending for TXID: bb7460a34f094886afeb800860309da3
+
+2024-12-05 14:08:38 - PIX payment created successfully. TXID: 6201152357db42ecb85dc47bf512ba07
+
+2024-12-05 14:08:44 - check_payment_status.php called
+
+2024-12-05 14:08:44 - TXID: 6201152357db42ecb85dc47bf512ba07
+
+2024-12-05 14:08:46 - API Response: {"calendario":{"criacao":"2024-12-05T13:08:38.000Z","expiracao":3600},"txid":"6201152357db42ecb85dc47bf512ba07","revisao":0,"status":"ATIVA","valor":{"original":"2.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":725,"location":"qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e7","tipoCob":"cob","criacao":"2024-12-05T13:08:38.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e75204000053039865802BR5905EFISA6008SAOPAULO62070503***630427CE"}
+
+2024-12-05 14:08:46 - Payment pending for TXID: 6201152357db42ecb85dc47bf512ba07
+
+2024-12-05 14:08:49 - check_payment_status.php called
+
+2024-12-05 14:08:49 - TXID: 6201152357db42ecb85dc47bf512ba07
+
+2024-12-05 14:08:51 - API Response: {"calendario":{"criacao":"2024-12-05T13:08:38.000Z","expiracao":3600},"txid":"6201152357db42ecb85dc47bf512ba07","revisao":0,"status":"ATIVA","valor":{"original":"2.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":725,"location":"qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e7","tipoCob":"cob","criacao":"2024-12-05T13:08:38.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e75204000053039865802BR5905EFISA6008SAOPAULO62070503***630427CE"}
+
+2024-12-05 14:08:51 - Payment pending for TXID: 6201152357db42ecb85dc47bf512ba07
+
+2024-12-05 14:08:54 - check_payment_status.php called
+
+2024-12-05 14:08:54 - TXID: 6201152357db42ecb85dc47bf512ba07
+
+2024-12-05 14:08:56 - API Response: {"calendario":{"criacao":"2024-12-05T13:08:38.000Z","expiracao":3600},"txid":"6201152357db42ecb85dc47bf512ba07","revisao":0,"status":"ATIVA","valor":{"original":"2.50"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":725,"location":"qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e7","tipoCob":"cob","criacao":"2024-12-05T13:08:38.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e7","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/681c7807e96447b491cb26ad22c650e75204000053039865802BR5905EFISA6008SAOPAULO62070503***630427CE"}
+
+2024-12-05 14:08:56 - Payment pending for TXID: 6201152357db42ecb85dc47bf512ba07
+
+2024-12-05 14:09:13 - PIX payment created successfully. TXID: 1d57c0a652234b629a04141849512bd9
+
+2024-12-05 14:09:19 - check_payment_status.php called
+
+2024-12-05 14:09:19 - TXID: 1d57c0a652234b629a04141849512bd9
+
+2024-12-05 14:09:21 - API Response: {"calendario":{"criacao":"2024-12-05T13:09:13.000Z","expiracao":3600},"txid":"1d57c0a652234b629a04141849512bd9","revisao":0,"status":"ATIVA","valor":{"original":"0.80"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":726,"location":"qrcodespix.sejaefi.com.br\/v2\/4a34e28709e44207bc7f4f2b8100f1fc","tipoCob":"cob","criacao":"2024-12-05T13:09:13.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/4a34e28709e44207bc7f4f2b8100f1fc","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/4a34e28709e44207bc7f4f2b8100f1fc5204000053039865802BR5905EFISA6008SAOPAULO62070503***63046D11"}
+
+2024-12-05 14:09:21 - Payment pending for TXID: 1d57c0a652234b629a04141849512bd9
+
+2024-12-05 14:09:24 - check_payment_status.php called
+
+2024-12-05 14:09:24 - TXID: 1d57c0a652234b629a04141849512bd9
+
+2024-12-05 14:09:26 - API Response: {"calendario":{"criacao":"2024-12-05T13:09:13.000Z","expiracao":3600},"txid":"1d57c0a652234b629a04141849512bd9","revisao":0,"status":"ATIVA","valor":{"original":"0.80"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":726,"location":"qrcodespix.sejaefi.com.br\/v2\/4a34e28709e44207bc7f4f2b8100f1fc","tipoCob":"cob","criacao":"2024-12-05T13:09:13.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/4a34e28709e44207bc7f4f2b8100f1fc","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/4a34e28709e44207bc7f4f2b8100f1fc5204000053039865802BR5905EFISA6008SAOPAULO62070503***63046D11"}
+
+2024-12-05 14:09:26 - Payment pending for TXID: 1d57c0a652234b629a04141849512bd9
+
+2024-12-05 14:09:44 - PIX payment created successfully. TXID: adf6c0c37f9a455f8239cf192a680d67
+
+2024-12-05 14:09:49 - check_payment_status.php called
+
+2024-12-05 14:09:49 - TXID: adf6c0c37f9a455f8239cf192a680d67
+
+2024-12-05 14:09:51 - API Response: {"calendario":{"criacao":"2024-12-05T13:09:44.000Z","expiracao":3600},"txid":"adf6c0c37f9a455f8239cf192a680d67","revisao":0,"status":"ATIVA","valor":{"original":"0.80"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":727,"location":"qrcodespix.sejaefi.com.br\/v2\/fc04a40bee8249e1b609b33db965148d","tipoCob":"cob","criacao":"2024-12-05T13:09:44.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/fc04a40bee8249e1b609b33db965148d","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/fc04a40bee8249e1b609b33db965148d5204000053039865802BR5905EFISA6008SAOPAULO62070503***6304932F"}
+
+2024-12-05 14:09:51 - Payment pending for TXID: adf6c0c37f9a455f8239cf192a680d67
+
+2024-12-05 14:14:58 - PIX payment created successfully. TXID: a2039779094d496bb130e74c714c9ede
+
+2024-12-05 14:15:04 - check_payment_status.php called
+
+2024-12-05 14:15:04 - TXID: a2039779094d496bb130e74c714c9ede
+
+2024-12-05 14:15:06 - API Response: {"calendario":{"criacao":"2024-12-05T13:14:58.000Z","expiracao":3600},"txid":"a2039779094d496bb130e74c714c9ede","revisao":0,"status":"ATIVA","valor":{"original":"0.80"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":728,"location":"qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea4","tipoCob":"cob","criacao":"2024-12-05T13:14:58.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea4","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea45204000053039865802BR5905EFISA6008SAOPAULO62070503***6304FE4F"}
+
+2024-12-05 14:15:06 - Payment pending for TXID: a2039779094d496bb130e74c714c9ede
+
+2024-12-05 14:15:09 - check_payment_status.php called
+
+2024-12-05 14:15:09 - TXID: a2039779094d496bb130e74c714c9ede
+
+2024-12-05 14:15:11 - API Response: {"calendario":{"criacao":"2024-12-05T13:14:58.000Z","expiracao":3600},"txid":"a2039779094d496bb130e74c714c9ede","revisao":0,"status":"ATIVA","valor":{"original":"0.80"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":728,"location":"qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea4","tipoCob":"cob","criacao":"2024-12-05T13:14:58.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea4","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea45204000053039865802BR5905EFISA6008SAOPAULO62070503***6304FE4F"}
+
+2024-12-05 14:15:11 - Payment pending for TXID: a2039779094d496bb130e74c714c9ede
+
+2024-12-05 14:15:14 - check_payment_status.php called
+
+2024-12-05 14:15:14 - TXID: a2039779094d496bb130e74c714c9ede
+
+2024-12-05 14:15:16 - API Response: {"calendario":{"criacao":"2024-12-05T13:14:58.000Z","expiracao":3600},"txid":"a2039779094d496bb130e74c714c9ede","revisao":0,"status":"ATIVA","valor":{"original":"0.80"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":728,"location":"qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea4","tipoCob":"cob","criacao":"2024-12-05T13:14:58.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea4","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea45204000053039865802BR5905EFISA6008SAOPAULO62070503***6304FE4F"}
+
+2024-12-05 14:15:16 - Payment pending for TXID: a2039779094d496bb130e74c714c9ede
+
+2024-12-05 14:15:19 - check_payment_status.php called
+
+2024-12-05 14:15:19 - TXID: a2039779094d496bb130e74c714c9ede
+
+2024-12-05 14:15:21 - API Response: {"calendario":{"criacao":"2024-12-05T13:14:58.000Z","expiracao":3600},"txid":"a2039779094d496bb130e74c714c9ede","revisao":0,"status":"ATIVA","valor":{"original":"0.80"},"chave":"36a659d4-064d-4643-85c1-b95e8e98737c","devedor":{"cpf":"27268629850","nome":"Roberto Souza"},"infoAdicionais":[{"nome":"Observa\u00e7\u00e3o","valor":"Informa\u00e7\u00f5es adicionais"}],"loc":{"id":728,"location":"qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea4","tipoCob":"cob","criacao":"2024-12-05T13:14:58.000Z"},"location":"qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea4","pixCopiaECola":"00020101021226830014BR.GOV.BCB.PIX2561qrcodespix.sejaefi.com.br\/v2\/515a7789d05b4edcb247b1966b76fea45204000053039865802BR5905EFISA6008SAOPAULO62070503***6304FE4F"}
+
+2024-12-05 14:15:21 - Payment pending for TXID: a2039779094d496bb130e74c714c9ede
+

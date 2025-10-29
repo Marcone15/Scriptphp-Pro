@@ -1,0 +1,43 @@
+@import url('../css/reset/reset.css');
+
+@import url('../css/pages/home.css');
+@import url('../css/pages/single.css');
+@import url('../css/pages/orderDetails.css');
+@import url('../css/pages/campanhas.css');
+@import url('../css/pages/comunicados.css');
+@import url('../css/pages/termodeuso.css');
+@import url('../css/pages/meusnumeros.css');
+@import url('../css/pages/cadastrar.css');
+@import url('../css/pages/contato.css');
+@import url('../css/pages/obrigado.css');
+@import url('../css/pages/404.css');
+
+@import url('../css/dashboard/login.css');
+@import url('../css/dashboard/home.css');
+@import url('../css/dashboard/campaigns.css');
+@import url('../css/dashboard/orders.css');
+@import url('../css/dashboard/statistics.css');
+@import url('../css/dashboard/ranking.css');
+@import url('../css/dashboard/communications.css');
+@import url('../css/dashboard/users.css');
+@import url('../css/dashboard/settings.css');
+@import url('../css/dashboard/search.css');
+@import url('../css/dashboard/newcampaign.css');
+@import url('../css/dashboard/editorder.css');
+@import url('../css/dashboard/gateways.css');
+
+
+@import url('../css/partials/navbar.css');
+@import url('../css/partials/footer.css');
+@import url('../css/partials/automatic.css');
+@import url('../css/partials/promotions.css');
+@import url('../css/partials/paymentmodal.css');
+@import url('../css/partials/drawtitles.css');
+@import url('../css/partials/ranking.css');
+@import url('../css/partials/biggersmaller.css');
+@import url('../css/partials/normal.css');
+@import url('../css/partials/socials.css');
+@import url('../css/partials/animals.css');
+@import url('../css/partials/socialsicons.css');
+
+@import url('../css/partials/dashboard/sidebar.css');
