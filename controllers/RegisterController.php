@@ -56,7 +56,7 @@ class RegisterController {
             }
         }
 
-        $isAdmin = false;
+        $isAdmin = (int)false;
         $createdAt = date('Y-m-d H:i:s');
         $updatedAt = date('Y-m-d H:i:s');
 
