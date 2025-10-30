@@ -31,12 +31,14 @@ document.addEventListener('DOMContentLoaded', function() {
         } else if (qtdPromo3 && quantity === parseInt(qtdPromo3.textContent)) {
             totalPrice = pricePromo3.textContent.replace('.', ',');
         }
+        if (quantity === null){
+            quantity=100;
+        }
 
         priceParticipate.innerText = totalPrice;
-        quantitySelected.innerText = quantity;
-        quantityInput.value = quantitySelected.innerText;
+        quantityInput.value = quantity;
         totalAmountInput.value = totalPrice;
-        
+        quantitySelected.innerText = quantity;
     }
 
     function updateQuantity(amount) {
