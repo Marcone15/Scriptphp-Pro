@@ -77,6 +77,10 @@ $totalNumbersAvailable = ceil($qtdNumbers - ($qtdNumbers * ($percentNumbers / 10
                     </span>
                 </span>
             </div>
+            <!-- Hidden inputs for form submission -->
+            <input type="hidden" id="quantity" name="quantity">
+            <input type="hidden" id="total-amount" name="total_amount">
+            <input type="hidden" id="numbers-list" name="numbers_list">
         </div>
     </div>
 
