@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         priceParticipate.innerText = totalPrice;
-        if (quantityInput) quantityInput.value = quantity;
+        quantityInput.value = quantity;
         totalAmountInput.value = totalPrice;
         quantitySelected.innerText = quantity;
     }
