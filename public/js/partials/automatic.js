@@ -32,10 +32,10 @@ document.addEventListener('DOMContentLoaded', function() {
             totalPrice = pricePromo3.textContent.replace('.', ',');
         }
 
-        if (priceParticipate) priceParticipate.innerText = totalPrice;
+        priceParticipate.innerText = totalPrice;
         if (quantityInput) quantityInput.value = quantity;
-        if (totalAmountInput) totalAmountInput.value = (quantity * priceValue).toFixed(2);
-        if (quantitySelected) quantitySelected.innerText = quantity;
+        totalAmountInput.value = totalPrice;
+        quantitySelected.innerText = quantity;
     }
 
     function updateQuantity(amount) {
@@ -92,8 +92,8 @@ document.addEventListener('DOMContentLoaded', function() {
             updateTotalPrice();
 
             if (inputQuantity.value == promoQuantity) {
-                if (priceParticipate) priceParticipate.innerText = promoPrice.replace('.', ',');
-                if (totalAmountInput) totalAmountInput.value = promoPrice.replace('.', ',');
+                priceParticipate.innerText = promoPrice.replace('.', ',');
+                totalAmountInput.value = promoPrice.replace('.', ',');
             }
         });
     });
