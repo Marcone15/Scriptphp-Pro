@@ -6,7 +6,6 @@ use models\Order;
 use models\User;
 use DateTime;
 use DateTimeZone;
-use Exception;
 
 class PurchaseController {
     private $campaignModel;
@@ -183,7 +182,6 @@ class PurchaseController {
     
                 if ($char !== ',') {
                     $buffer .= $char;
-                $buffer = $buffer ?? '';
                 } else {
                     if (count($selectedNumbers) < $quantity) {
                         $selectedNumbers[] = trim($buffer);
