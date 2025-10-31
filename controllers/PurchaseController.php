@@ -183,8 +183,6 @@ class PurchaseController {
     
                 if ($char !== ',') {
                     $buffer .= $char;
-                $buffer = $buffer ?? '';
-
                 } else {
                     if (count($selectedNumbers) < $quantity) {
                         $selectedNumbers[] = trim($buffer);
