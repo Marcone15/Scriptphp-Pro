@@ -6,6 +6,7 @@ use models\Order;
 use models\User;
 use DateTime;
 use DateTimeZone;
+use Exception;
 
 class PurchaseController {
     private $campaignModel;
@@ -165,7 +166,7 @@ class PurchaseController {
         $filePath = __DIR__ . '/../campaigns/' . $campaign['numbers_file_path'];
     
         if (!file_exists($filePath)) {
-            throw new \Exception("Arquivo de números não encontrado.");
+            throw new Exception("Arquivo de números não encontrado.");
         }
     
         $selectedNumbers = [];
