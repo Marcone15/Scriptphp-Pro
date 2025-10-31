@@ -84,6 +84,13 @@ document.addEventListener('DOMContentLoaded', function() {
         // Atualizar o display da quantidade no modal
         const modalQuantitySelected = modalPayment.querySelector('.quantity-selected');
         if (modalQuantitySelected) modalQuantitySelected.innerText = quantityInput.value;
+        // Garantir que o form-1 esteja visível e os outros ocultos
+        const form1 = modalPayment.querySelector('.form-1');
+        const form2 = modalPayment.querySelector('.form-2');
+        const form3 = modalPayment.querySelector('.form-3');
+        if (form1) form1.style.display = 'block';
+        if (form2) form2.style.display = 'none';
+        if (form3) form3.style.display = 'none';
         modalPayment.style.display = 'flex';
     });
 
