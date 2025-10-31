@@ -124,7 +124,9 @@ function route($uri) {
     $segments = explode('/', trim($path, '/'));
 
     if ($_SERVER['REQUEST_METHOD'] == 'POST' && $path == '/compra') {
+        if (session_status() === PHP_SESSION_NONE) {
         session_start();
+    }
         $data = $_POST;
     
         $user = $purchaseController->checkPhone($data['phone']);

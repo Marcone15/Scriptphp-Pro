@@ -74,6 +74,30 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     btnAddToCart.addEventListener('click', function() {
+        // Atualizar os campos ocultos do modal com os valores atuais
+        const modalQuantity = modalPayment.querySelector('input[name="quantity"]');
+        const modalTotal = modalPayment.querySelector('input[name="total"]');
+        const modalNumbers = modalPayment.querySelector('input[name="numbers_list"]');
+        if (modalQuantity) modalQuantity.value = quantityInput.value;
+        if (modalTotal) modalTotal.value = totalAmountInput.value;
+        if (modalNumbers) modalNumbers.value = numbersListInput.value;
+        // Atualizar o display da quantidade no modal
+        const modalQuantitySelected = modalPayment.querySelector('.quantity-selected');
+        if (modalQuantitySelected) modalQuantitySelected.innerText = quantityInput.value;
+        // Garantir que o form-1 esteja visível e os outros ocultos
+        const form1 = modalPayment.querySelector('.form-1');
+        const form2 = modalPayment.querySelector('.form-2');
+        const form3 = modalPayment.querySelector('.form-3');
+        if (form1) {
+            form1.style.display = 'block';
+            // Resetar o botão Continuar para o estado inicial
+            const btnContinue = form1.querySelector('button');
+            if (btnContinue) {
+                btnContinue.innerHTML = 'Continuar <i class="bi bi-arrow-right"></i> <img src="../../public/images/spinner.gif" alt="spinner" style="max-width: 20px; display: none; margin-left: 10px;">';
+            }
+        }
+        if (form2) form2.style.display = 'none';
+        if (form3) form3.style.display = 'none';
         modalPayment.style.display = 'flex';
     });
 
