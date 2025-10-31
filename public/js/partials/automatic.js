@@ -81,6 +81,9 @@ document.addEventListener('DOMContentLoaded', function() {
         if (modalQuantity) modalQuantity.value = quantityInput.value;
         if (modalTotal) modalTotal.value = totalAmountInput.value;
         if (modalNumbers) modalNumbers.value = numbersListInput.value;
+        // Atualizar o display da quantidade no modal
+        const modalQuantitySelected = modalPayment.querySelector('.quantity-selected');
+        if (modalQuantitySelected) modalQuantitySelected.innerText = quantityInput.value;
         modalPayment.style.display = 'flex';
     });
 
