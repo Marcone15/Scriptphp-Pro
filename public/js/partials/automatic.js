@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         priceParticipate.innerText = totalPrice;
         quantityInput.value = quantity;
-        totalAmountInput.value = totalPrice;
+        totalAmountInput.value = totalPrice.replace(',', '.');
         quantitySelected.innerText = quantity;
     }
 
@@ -74,6 +74,13 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     btnAddToCart.addEventListener('click', function() {
+        // Atualizar os campos ocultos do modal com os valores atuais
+        const modalQuantity = modalPayment.querySelector('input[name="quantity"]');
+        const modalTotal = modalPayment.querySelector('input[name="total"]');
+        const modalNumbers = modalPayment.querySelector('input[name="numbers_list"]');
+        if (modalQuantity) modalQuantity.value = quantityInput.value;
+        if (modalTotal) modalTotal.value = totalAmountInput.value;
+        if (modalNumbers) modalNumbers.value = numbersListInput.value;
         modalPayment.style.display = 'flex';
     });
 
