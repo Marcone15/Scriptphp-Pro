@@ -3,15 +3,17 @@ nav{
 }
 
 nav .container-nav{
-    max-width: 588px;
+    max-width: 700px;
     margin: auto;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 nav .container-nav .header-nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 nav .container-nav .header-nav i{
@@ -22,7 +24,7 @@ nav .container-nav .header-nav i{
 
 nav .container-nav .header-nav img{
     max-width: 185px;
-    max-height: 50px;  
+    max-height: 40px;  
     cursor: pointer;
 }
 

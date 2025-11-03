@@ -6,7 +6,7 @@
 <body>
     <section>
         <div class="back-range" style="background-color: <?php echo htmlspecialchars($settings['color_website']); ?>;"></div>
-        <div class="container">
+        <div class="container-single">
             <div class="info-single" data-image-raffle="<?php echo htmlspecialchars($campaign['image_raffle']); ?>" data-image-raffle-galery="<?php echo htmlspecialchars($campaign['image_raffle_galery']); ?>">
                 <i class="bi bi-chevron-left slide-control" id="prevSlide"></i>
                 <div class="img-single" id="imgSingle" style="background-image: url('../../public/images/<?php echo htmlspecialchars($campaign['image_raffle']); ?>')"></div>
