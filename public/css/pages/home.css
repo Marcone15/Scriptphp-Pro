@@ -6,7 +6,7 @@ body section .back-range{
 
 body section .container{
     max-width: 700px;
-    background-color: #E4E4E4;
+    background-color: #dfe3e8;
     border-radius: 15px 15px 0 0;
     padding: 15px 12px 20px 12px;
 }
@@ -38,7 +38,7 @@ body section .container .favorite-campaign .img-campaign{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    border-radius: 10px 10px 0 0;
+    border-radius: 15px 15px 0 0;
     margin-top: 10px;
     margin-bottom: -34px;
 }

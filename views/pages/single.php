@@ -28,11 +28,19 @@
                         <?php echo substr(htmlspecialchars($campaign['subname']), 0, 39); ?>
                     </p>
                 </div>
-                <a href="/meus-numeros">
-                    <button>
-                        <i class="bi bi-cart"></i> Meus títulos
-                    </button>
-                </a>
+                <?php if (isset($_SESSION['user'])): ?>
+                    <a href="/meus-numeros">
+                        <button>
+                            <i class="bi bi-cart"></i> Meus títulos
+                        </button>
+                    </a>
+                <?php else: ?>
+                    <a href="/login">
+                        <button>
+                            <i class="bi bi-cart"></i> Meus títulos
+                        </button>
+                    </a>
+                <?php endif; ?>
             </div>
 
             <div class="date-price">

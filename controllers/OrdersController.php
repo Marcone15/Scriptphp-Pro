@@ -16,29 +16,30 @@ class OrdersController {
     }
 
     public function showOrders() {
+        if (!isset($_SESSION['user'])) {
+            header('Location: /login');
+            exit();
+        }
+
         $orders = [];
         $searchPerformed = false;
-        $limit = 10; 
+        $limit = 10;
         $currentPage = isset($_GET['page']) ? (int)$_GET['page'] : 1;
         $offset = ($currentPage - 1) * $limit;
 
-        if (isset($_GET['phone'])) {
-            $phone = $_GET['phone'];
-            $orders = $this->orderModel->getOrdersByPhone($phone, $limit, $offset);
-            $totalOrders = $this->orderModel->getTotalOrdersByPhone($phone);
-            $searchPerformed = true;
-        } else {
-            $totalOrders = 0;
-        }
+        $phone = $_SESSION['user']['phone'];
+        $orders = $this->orderModel->getOrdersByPhone($phone, $limit, $offset);
+        $totalOrders = $this->orderModel->getTotalOrdersByPhone($phone);
+        $searchPerformed = true;
 
         $totalPages = ceil($totalOrders / $limit);
 
         $this->render('meusnumeros', [
-            'orders' => $orders, 
-            'searchPerformed' => $searchPerformed, 
-            'currentPage' => $currentPage, 
+            'orders' => $orders,
+            'searchPerformed' => $searchPerformed,
+            'currentPage' => $currentPage,
             'totalPages' => $totalPages,
-            'phone' => $phone ?? ''
+            'phone' => $phone
         ]);
     }
 

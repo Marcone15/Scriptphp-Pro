@@ -18,8 +18,7 @@ $userImage = $_SESSION['user']['image_user'] ?? 'default-image.png';
             <i class="bi bi-filter-left" id="showPopupButton"></i>
         </div>
         <div class="sub-menu-nav">
-            <a href="/campanhas"><i class="bi bi-stars"></i> Campanhas</a>
-            <a href="/meus-numeros">Meus títulos</a>
+            
         </div>
         <div class="popup-nav" style="background-color: <?php echo htmlspecialchars($settings['color_website']); ?>;">
             <div class="container-popup-nav">
