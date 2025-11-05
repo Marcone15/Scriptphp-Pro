@@ -14,7 +14,7 @@
 
 
 .info-single .img-single{
-    
+
     height: 330px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -23,6 +23,7 @@
     margin-left: -10px;
     margin-top: -10px;
     margin-right: -10px;
+    transition: background-image 0.5s ease-in-out;
 }
 
 .info-single .background-gradient{
@@ -78,9 +79,9 @@
     font-weight: 400;
     font-size: .9em;
     border: none;
-    width: 100%;
+    width: calc(100% + 20px);
     height: 30px;
-    padding: 7px 0;
+    padding: 4px 0;
     margin-left: -10px;
     margin-right: -10px;
 }

@@ -34,21 +34,39 @@ document.addEventListener('DOMContentLoaded', function() {
 
     let images = [imageRaffle, ...imageRaffleGalery].filter(image => image.trim() !== '');
     let currentIndex = 0;
+    let autoSlideInterval;
 
     function updateSlide() {
         imgSingle.style.backgroundImage = `url('../../public/images/${images[currentIndex]}')`;
     }
 
+    function startAutoSlide() {
+        autoSlideInterval = setInterval(function() {
+            currentIndex = (currentIndex === images.length - 1) ? 0 : currentIndex + 1;
+            updateSlide();
+        }, 3000); // Alterna a cada 3 segundos
+    }
+
+    function stopAutoSlide() {
+        clearInterval(autoSlideInterval);
+    }
+
     if (images.length > 1) {
         prevSlide.addEventListener('click', function() {
+            stopAutoSlide();
             currentIndex = (currentIndex === 0) ? images.length - 1 : currentIndex - 1;
             updateSlide();
+            startAutoSlide();
         });
 
         nextSlide.addEventListener('click', function() {
+            stopAutoSlide();
             currentIndex = (currentIndex === images.length - 1) ? 0 : currentIndex + 1;
             updateSlide();
+            startAutoSlide();
         });
+
+        startAutoSlide();
     } else {
         prevSlide.style.display = 'none';
         nextSlide.style.display = 'none';
