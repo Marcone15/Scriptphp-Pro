@@ -277,7 +277,7 @@
     color: white;
     cursor: pointer;
     z-index: 10;
-    transition: background-color 0.3s, color 0.3s;
+    transition: background-color 0.5s, color 0.3s;
 }
 
 #prevSlide {

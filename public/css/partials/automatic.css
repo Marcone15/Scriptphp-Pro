@@ -110,7 +110,6 @@
     margin: 0 5px;
     -moz-appearance: textfield;
     appearance: textfield;
-    pointer-events: none;
 }
 
 .select-single .add-to-cart .quantity-input .bi-plus-circle-fill{

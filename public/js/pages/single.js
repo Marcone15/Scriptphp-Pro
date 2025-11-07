@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
         autoSlideInterval = setInterval(function() {
             currentIndex = (currentIndex === images.length - 1) ? 0 : currentIndex + 1;
             updateSlide();
-        }, 3000); // Alterna a cada 3 segundos
+        }, 5000); // Alterna a cada 3 segundos
     }
 
     function stopAutoSlide() {
