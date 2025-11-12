@@ -40,7 +40,7 @@ $userImage = $_SESSION['user']['image_user'] ?? 'default-image.png';
                         <li><a href="/"><i class="icone bi bi-house"></i>Início</a></li>
                         <li><a href="/campanhas"><i class="icone bi bi-card-list"></i>Campanhas</a></li>
                         <li><a href="/comunicados"><i class="icone bi bi-newspaper"></i>Comunicados</a></li>
-                        <li><a href="/meus-numeros"><i class="icone bi bi-ui-checks"></i>Meus títulos<span class="new">Novo</span></a></li>
+                        <li><a href="/meus-numeros"><i class="icone bi bi-ui-checks"></i>Meus títulos</a></li>
                         <li><a href="/cadastrar"><i class="icone bi bi-box-arrow-in-right"></i>Cadastro</a></li>
                         <li><a href="/ganhadores"><i class="icone bi bi-trophy"></i>Ganhadores</li></a>
                         <a href="/termo-de-uso"><li><i class="icone bi bi-blockquote-right"></i>Termos de uso</a></li>
